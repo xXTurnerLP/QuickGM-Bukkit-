@@ -1,7 +1,7 @@
 main: net.pyrolands.root.main
 name: QuickGM
 version: 1.0-RELEASE
-description: "Changes between CREATIVE and SURIVAL with '/gm' command"
+description: "Changes between CREATIVE and SURVIVAL with '/gm' command"
 api-version: 1.14
 author: turner#6040
 permissions:
